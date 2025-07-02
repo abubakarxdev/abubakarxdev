@@ -47,9 +47,6 @@
 </div>
 
 <!-- Backup Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithbakar&theme=dark&hide_border=true" alt="GitHub Streak Stats Backup" />
-</div>
 
 <!-- Professional Links with Adaptive Styling -->
 <p align="center">
@@ -329,40 +326,6 @@ const engineer = {
 </div>
 
 <!-- Fun Stats Section -->
-<div align="center">
-  <h3>⚡ Fun Facts</h3>
-  <p>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
-    <strong>Lines of Code Written:</strong> Countless ∞
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
-  </p>
-  <p>
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20">
-    <strong>Coffee Cups:</strong> Too many to count ☕
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20">
-  </p>
-  <p>
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20">
-    <strong>Bugs Fixed:</strong> More than created (hopefully) 🐛
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20">
-  </p>
-</div>
-
-<!-- Animated Achievement Badges -->
-<div align="center">
-  <h3>🏆 Achievement Unlocked</h3>
-  <img src="https://img.shields.io/badge/Level-Senior%20Developer-FF6B6B?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=FF6B6B" alt="Level Badge">
-  <img src="https://img.shields.io/badge/Status-Building%20The%20Future-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white&labelColor=4ECDC4" alt="Status Badge">
-  <img src="https://img.shields.io/badge/Mood-Always%20Learning-45B7D1?style=for-the-badge&logo=brain&logoColor=white&labelColor=45B7D1" alt="Mood Badge">
-</div>
-
-<!-- Working Visitor Counter with Multiple Services -->
-<div align="center">
-  <h3>👥 Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=codewithbakar&style=for-the-badge&color=blueviolet&label=VIEWS" alt="Profile Views">
-  <br><br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodewithbakar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false" alt="Visit Count"/>
-</div>
 
 <!-- Interactive Contact Animation -->
 <div align="center">
@@ -381,14 +344,6 @@ const engineer = {
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" alt="Thank You GIF">
 </div>
 
-<!-- Enhanced Waving Footer Banner -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Keep%20Coding%20%F0%9F%9A%80&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=75">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer&text=Keep%20Coding%20%F0%9F%9A%80&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=75">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Keep%20Coding%20%F0%9F%9A%80&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%" />
-  </picture>
-</div>
 
 <!-- Final Animated Message -->
 <div align="center">
