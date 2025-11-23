@@ -50,10 +50,10 @@
 
 <!-- Professional Links with Adaptive Styling -->
 <p align="center">
-  <a href="https://linkedin.com/in/abubakarse005">
+  <a href="https://linkedin.com/in/abubakarxdev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:abubakarse005@gmail.com">
+  <a href="mailto:abubakarxdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/abubakarxdev">
@@ -114,7 +114,7 @@ const engineer = {
 - 🔭 Working on **enterprise-grade React and FastAPI projects**
 - 🌱 Deepening knowledge in **cloud architecture** and **system design**
 - 🚀 Building solutions with **performance and scalability** in mind
-- 📫 Open to collaboration: **abubakarse005@gmail.com**
+- 📫 Open to collaboration: **abubakarxdev@gmail.com**
 
 ---
 
@@ -284,10 +284,10 @@ const engineer = {
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/abubakarse005" target="_blank">
+  <a href="https://linkedin.com/in/abubakarxdev" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
-  <a href="mailto:abubakarse005@gmail.com" target="_blank">
+  <a href="mailto:abubakarxdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
   <a href="https://twitter.com/abubakarxdev" target="_blank">
@@ -335,8 +335,8 @@ const engineer = {
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">
   </h3>
   
-  <a href="mailto:abubakarse005@gmail.com">
-    <img src="https://img.shields.io/badge/Drop%20me%20a%20line-abubakarse005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Contact Email">
+  <a href="mailto:abubakarxdev@gmail.com">
+    <img src="https://img.shields.io/badge/Drop%20me%20a%20line-abubakarxdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Contact Email">
   </a>
   
   <br><br>
