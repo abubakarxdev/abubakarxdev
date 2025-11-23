@@ -43,7 +43,7 @@
 
 <!-- Working GitHub Streak Stats - Multiple Reliable Sources -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithbakar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarxdev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 </div>
 
 <!-- Backup Streak Stats -->
@@ -56,10 +56,10 @@
   <a href="mailto:abubakarse005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/codewithbakar">
+  <a href="https://github.com/abubakarxdev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=codewithbakar&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abubakarxdev&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p>
 
 ---
@@ -204,24 +204,24 @@ const engineer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codewithbakar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codewithbakar&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=374151">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithbakar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abubakarxdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abubakarxdev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=374151">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abubakarxdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbakar&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbakar&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbakar&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarxdev&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarxdev&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarxdev&layout=compact&theme=tokyonight&hide_border=true" />
   </picture>
 </div>
 
 <!-- Adaptive Trophy Display -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=codewithbakar&theme=algolia&no-frame=true&margin-w=15&column=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=codewithbakar&theme=flat&no-frame=true&margin-w=15&column=6">
-    <img src="https://github-profile-trophy.vercel.app/?username=codewithbakar&theme=algolia&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abubakarxdev&theme=algolia&no-frame=true&margin-w=15&column=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=abubakarxdev&theme=flat&no-frame=true&margin-w=15&column=6">
+    <img src="https://github-profile-trophy.vercel.app/?username=abubakarxdev&theme=algolia&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
   </picture>
 </div>
 
@@ -237,9 +237,9 @@ const engineer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codewithbakar&theme=react-dark&bg_color=0D1117&color=3498DB&line=9B59B6&point=FFFFFF&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codewithbakar&theme=minimal&bg_color=ffffff&color=2563eb&line=059669&point=2563eb&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithbakar&theme=react-dark&bg_color=0D1117&color=3498DB&line=9B59B6&point=FFFFFF&hide_border=true" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abubakarxdev&theme=react-dark&bg_color=0D1117&color=3498DB&line=9B59B6&point=FFFFFF&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abubakarxdev&theme=minimal&bg_color=ffffff&color=2563eb&line=059669&point=2563eb&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarxdev&theme=react-dark&bg_color=0D1117&color=3498DB&line=9B59B6&point=FFFFFF&hide_border=true" width="100%" />
   </picture>
 </div>
 
@@ -290,7 +290,7 @@ const engineer = {
   <a href="mailto:abubakarse005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
-  <a href="https://twitter.com/codewithbakar" target="_blank">
+  <a href="https://twitter.com/abubakarxdev" target="_blank">
     <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter)" />
   </a>
 </div>
@@ -352,5 +352,5 @@ const engineer = {
 
 <!-- Animated GitHub Stats Footer -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithbakar&theme=radical" alt="GitHub Profile Summary" width="80%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakarxdev&theme=radical" alt="GitHub Profile Summary" width="80%">
 </div>
