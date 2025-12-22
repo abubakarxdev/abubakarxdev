@@ -91,10 +91,24 @@ I am a **Full Stack Engineer** passionate about building scalable web applicatio
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/abubakarxdev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abubakarxdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarxdev&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abubakarxdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarxdev&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarxdev&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarxdev&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
 <br>
