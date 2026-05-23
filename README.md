@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,31&height=250&section=header&text=Abu%20Bakar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Cloud%20Architect&descAlignY=60&descSize=20">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,31&height=250&section=header&text=Abu%20Bakar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Cloud%20Architect&descAlignY=60&descSize=20">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,31&height=250&section=header&text=Abu%20Bakar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Cloud%20Architect&descAlignY=60&descSize=20" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,31&height=250&section=header&text=Abu%20Bakar&fontSize=70&fontColor=00ffcc&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20|%20DevSecOps%20&%20Cloud%20Architecture&descAlignY=60&descSize=20">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,31&height=250&section=header&text=Abu%20Bakar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20|%20DevSecOps%20&%20Cloud%20Architecture&descAlignY=60&descSize=20">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,31&height=250&section=header&text=Abu%20Bakar&fontSize=70&fontColor=00ffcc&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20|%20DevSecOps%20&%20Cloud%20Architecture&descAlignY=60&descSize=20" width="100%" />
   </picture>
 
   <br />
@@ -10,20 +10,20 @@
   <p align="center">
     <a href="https://linkedin.com/in/abubakarxdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:abubakarxdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://abubakarxdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=abubakarxdev&style=for-the-badge&color=2e2e2e" alt="Profile Views" />
+    <a href="https://abubakarxdev-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=abubakarxdev&style=for-the-badge&color=00ffcc" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-### ⚡ Professional Summary
+### ⚡ System Operator Summary
 
-I am a **Full Stack Engineer** passionate about building scalable web applications and cloud infrastructure. I move beyond simple coding to focus on **System Design**, **Performance Optimization**, and **Clean Architecture**.
+I am a **Full-Stack Systems Engineer** heavily focused on bridging the gap between high-performance application development and rigorous security infrastructure. I build robust, scalable architectures and secure serverless protocols. 
 
-* 🔭 **Currently:** Architecting enterprise-grade **React** & **FastAPI** solutions.
-* ☁️ **Cloud:** Deep-diving into **AWS Serverless** and **CI/CD** automation.
-* 🌱 **Learning:** Advanced System Design and Data Engineering.
+* 🔭 **Currently:** Architecting enterprise-grade **Next.js** & **FastAPI** solutions with Edge network deployments.
+* 🛡️ **DevSecOps:** Hardening systems via **ISO/IEC 27001** standards, penetration testing, and CI/CD automation.
+* 🌱 **Learning:** Advanced Open-Source Intelligence (OSINT) and Zero-Trust Network Architectures.
 
 ---
 
@@ -34,7 +34,7 @@ I am a **Full Stack Engineer** passionate about building scalable web applicatio
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35">
       <br>
-      <strong>Frontend Engineering</strong>
+      <strong>Frontend Architecture</strong>
     </td>
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/V4NSR1NG2pIYyYE4jZ/giphy.gif" width="35">
@@ -44,15 +44,15 @@ I am a **Full Stack Engineer** passionate about building scalable web applicatio
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
       <br>
-      <strong>Cloud & DevOps</strong>
+      <strong>Cloud & DevSecOps</strong>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" /><br>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framermotion" /><br>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
@@ -68,11 +68,11 @@ I am a **Full Stack Engineer** passionate about building scalable web applicatio
     </td>
     <td valign="top">
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,bash" /><br>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/CI/CD-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,githubactions,aws" /><br>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI/CD-F05032?style=flat-square&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -80,15 +80,17 @@ I am a **Full Stack Engineer** passionate about building scalable web applicatio
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Core Deployments & Projects
 
-| Project | Description | Tech Stack |
+| Architecture | Description | Stack |
 | :--- | :--- | :--- |
-| **NeuroSentinel**<br>*(Final Year Project)*<br>[Frontend Repo](https://github.com/abubakarxdev/NeuroSentinel_FrontEnd) \| [Backend Repo](https://github.com/abubakarxdev/NeuroSentinel_BackEnd) | 🧠 **AI-Powered HealthTech System**<br>A multi-modal diagnostic platform for detecting brain diseases via MRI, CT scans, and spiral drawings.<br>Feature a **Polyglot Architecture**: Node.js handles orchestration/user data, while FastAPI serves the PyTorch/TensorFlow models. | `React` (Frontend)<br>`Node.js & Express` (API)<br>`FastAPI` (AI Engine)<br>`MongoDB` (Data) |
-| **BlogApp CMS**<br>  [GitHub Repo](https://github.com/abubakarxdev/blogapp) | 🛡️ **Secure Content Management System**<br>Enterprise-grade blogging platform featuring **RBAC (Role-Based Access Control)**, Google OAuth2, and rich-text editing. Built for scalability with a decoupled architecture. | `React & Redux`<br>`FastAPI`<br>`PostgreSQL`<br>`Docker` |
+| **SYS_ARCH Portfolio V2**<br>[Live Edge Node](https://abubakarxdev-portfolio.vercel.app) \| [Source Code](https://github.com/abubakarxdev/abubakarxdev-portfolio) | 🌐 **Cyber-Minimalist Portfolio Architecture**<br>A high-performance personal system showcasing serverless REST APIs, framer-motion boot sequences, and strict SEO protocols deployed to the Vercel edge network. | `Next.js App Router`<br>`Tailwind CSS`<br>`Resend API`<br>`Framer Motion` |
+| **NeuroSentinel**<br>[Frontend](https://github.com/abubakarxdev/NeuroSentinel_FrontEnd) \| [Backend](https://github.com/abubakarxdev/NeuroSentinel_BackEnd) | 🧠 **AI-Powered HealthTech System**<br>A multi-modal diagnostic platform for detecting brain diseases via MRI, CT scans, and spiral drawings. Polyglot architecture routing data through Node.js to FastAPI models. | `React`<br>`Node.js / Express`<br>`FastAPI`<br>`MongoDB` |
+| **BlogApp CMS**<br>[GitHub Repo](https://github.com/abubakarxdev/blogapp) | 🛡️ **Secure Content Management System**<br>Enterprise-grade blogging platform featuring strictly enforced **RBAC (Role-Based Access Control)**, Google OAuth2, and decoupled containerized architecture. | `React & Redux`<br>`FastAPI`<br>`PostgreSQL`<br>`Docker` |
+
 ---
 
-### 📊 GitHub Analytics
+### 📊 System Telemetry (GitHub Analytics)
 
 <div align="center">
   <table border="0">
@@ -104,18 +106,17 @@ I am a **Full Stack Engineer** passionate about building scalable web applicatio
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarxdev&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarxdev&theme=tokyonight&bg_color=1a1b26&color=00ffcc&line=00ffcc&point=FFFFFF&hide_border=true" width="100%" />
 </div>
-
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&height=50&lines=Coding+is+my+craft.;Let's+build+something+amazing+together." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00ffcc&center=true&vCenter=true&width=600&height=50&lines=Initializing+secure+protocols...;Deploying+architecture+to+the+edge...;Let's+engineer+something+elite." alt="Typing SVG" />
   
   <br>
   
   <a href="mailto:abubakarxdev@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-abubakarxdev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Contact Email">
+    <img src="https://img.shields.io/badge/Initialize_Contact-abubakarxdev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Contact Email">
   </a>
 </div>
