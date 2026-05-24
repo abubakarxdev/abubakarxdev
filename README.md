@@ -19,7 +19,7 @@
 
 ### ⚡ System Operator Summary
 
-I am a **Full-Stack Systems Engineer** heavily focused on bridging the gap between high-performance application development and rigorous security infrastructure. I build robust, scalable architectures and secure serverless protocols. 
+I am a **Full-Stack Systems Engineer** heavily focused on bridging the gap between high-performance application development and rigorous security infrastructure. I build robust, scalable architectures and secure serverless protocols.
 
 * 🔭 **Currently:** Architecting enterprise-grade **Next.js** & **FastAPI** solutions with Edge network deployments.
 * 🛡️ **DevSecOps:** Hardening systems via **ISO/IEC 27001** standards, penetration testing, and CI/CD automation.
@@ -50,7 +50,7 @@ I am a **Full-Stack Systems Engineer** heavily focused on bridging the gap betwe
   <tr>
     <td valign="top">
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framermotion" /><br>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" /><br><br>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -59,7 +59,7 @@ I am a **Full-Stack Systems Engineer** heavily focused on bridging the gap betwe
     </td>
     <td valign="top">
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,mongo" /><br>
+        <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,mongo" /><br><br>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -68,7 +68,7 @@ I am a **Full-Stack Systems Engineer** heavily focused on bridging the gap betwe
     </td>
     <td valign="top">
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,githubactions,aws" /><br>
+        <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,githubactions,aws" /><br><br>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/CI/CD-F05032?style=flat-square&logo=githubactions&logoColor=white" />
@@ -93,29 +93,22 @@ I am a **Full-Stack Systems Engineer** heavily focused on bridging the gap betwe
 ### 📊 System Telemetry (GitHub Analytics)
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abubakarxdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarxdev&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarxdev&theme=tokyonight&bg_color=1a1b26&color=00ffcc&line=00ffcc&point=FFFFFF&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarxdev&theme=tokyonight&hide_border=true&background=1a1b26&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" width="49%" />
+
+  <br /><br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarxdev&theme=tokyo-night&bg_color=1a1b26&color=00ffcc&line=00ffcc&point=FFFFFF&hide_border=true" width="100%" />
+
 </div>
 
 ---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00ffcc&center=true&vCenter=true&width=600&height=50&lines=Initializing+secure+protocols...;Deploying+architecture+to+the+edge...;Let's+engineer+something+elite." alt="Typing SVG" />
-  
-  <br>
-  
+
+  <br />
+
   <a href="mailto:abubakarxdev@gmail.com">
     <img src="https://img.shields.io/badge/Initialize_Contact-abubakarxdev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Contact Email">
   </a>
