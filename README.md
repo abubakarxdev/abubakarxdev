@@ -82,14 +82,60 @@ I am a **Full-Stack Systems Engineer** heavily focused on bridging the gap betwe
 
 ### 🏆 Core Deployments & Projects
 
-| Architecture | Description | Stack |
-| :--- | :--- | :--- |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-| **GuardRail**<br>[Live Edge Node](#) \| [Source Code](https://github.com/abubakarxdev/guardrail) | 🌐 **GuardRail Architecture**<br>GuardRail is a modern SaaS application designed to enforce security policies and compliance standards on Infrastructure-as-Code (IaC). It parses, analyzes, and scores your Terraform and Kubernetes configuration files before they ever reach production. | `Next.js App Router`<br>`Tailwind CSS`<br>`Resend API`<br>`Framer Motion`<br>`FastAPI (Python)`<br>`PostgreSQL via SQLAlchemy ORM`<br>`Celery + Redis for asynchronous audit processing`<br>``python-hcl2` for Terraform and `pyyaml` for Kubernetes` | 
-| **SYS_ARCH Portfolio V2**<br>[Live Edge Node](https://abubakarxdev-portfolio.vercel.app) \| [Source Code](https://github.com/abubakarxdev/abubakarxdev-portfolio) | 🌐 **Cyber-Minimalist Portfolio Architecture**<br>A high-performance personal system showcasing serverless REST APIs, framer-motion boot sequences, and strict SEO protocols deployed to the Vercel edge network. | `Next.js App Router`<br>`Tailwind CSS`<br>`Resend API`<br>`Framer Motion` |
-| **NeuroSentinel**<br>[Frontend](https://github.com/abubakarxdev/NeuroSentinel_FrontEnd) \| [Backend](https://github.com/abubakarxdev/NeuroSentinel_BackEnd) | 🧠 **AI-Powered HealthTech System**<br>A multi-modal diagnostic platform for detecting brain diseases via MRI, CT scans, and spiral drawings. Polyglot architecture routing data through Node.js to FastAPI models. | `React`<br>`Node.js / Express`<br>`FastAPI`<br>`MongoDB` |
-| **BlogApp CMS**<br>[GitHub Repo](https://github.com/abubakarxdev/blogapp) | 🛡️ **Secure Content Management System**<br>Enterprise-grade blogging platform featuring strictly enforced **RBAC (Role-Based Access Control)**, Google OAuth2, and decoupled containerized architecture. | `React & Redux`<br>`FastAPI`<br>`PostgreSQL`<br>`Docker` |
+#### 🛡️ GuardRail
+![Security](https://img.shields.io/badge/Security%20%2F%20IaC-D14836?style=flat-square&logoColor=white)
 
+[Live Edge Node](#) · [Source Code](https://github.com/abubakarxdev/guardrail)
+
+SaaS platform that parses, analyzes, and scores Terraform and Kubernetes configs against security policies before they reach production.
+
+`Next.js` `FastAPI` `PostgreSQL` `Celery + Redis` `python-hcl2` `pyyaml`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 SYS_ARCH Portfolio V2
+![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=flat-square&logoColor=white)
+
+[Live Edge Node](https://abubakarxdev-portfolio.vercel.app) · [Source Code](https://github.com/abubakarxdev/abubakarxdev-portfolio)
+
+Cyber-minimalist personal site with serverless REST APIs, Framer Motion boot sequences, and strict SEO — deployed to the Vercel edge network.
+
+`Next.js` `Tailwind CSS` `Framer Motion` `Resend API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 NeuroSentinel
+![AI](https://img.shields.io/badge/AI%20%2F%20HealthTech-6A1B9A?style=flat-square&logoColor=white)
+
+[Frontend](https://github.com/abubakarxdev/NeuroSentinel_FrontEnd) · [Backend](https://github.com/abubakarxdev/NeuroSentinel_BackEnd)
+
+Multi-modal diagnostic platform for detecting brain diseases via MRI, CT scans, and spiral drawings — polyglot architecture routing data through Node.js to FastAPI models.
+
+`React` `Node.js / Express` `FastAPI` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📝 BlogApp CMS
+![CMS](https://img.shields.io/badge/CMS%20%2F%20Auth-2E7D32?style=flat-square&logoColor=white)
+
+[GitHub Repo](https://github.com/abubakarxdev/blogapp)
+
+Enterprise-grade blogging platform with strictly enforced RBAC, Google OAuth2, and a decoupled containerized architecture.
+
+`React + Redux` `FastAPI` `PostgreSQL` `Docker`
+
+</td>
+</tr>
+</table>
 ---
 
 ### 📊 System Telemetry (GitHub Analytics)
