@@ -89,11 +89,11 @@ I am a **Full-Stack Systems Engineer** heavily focused on bridging the gap betwe
 #### 🛡️ GuardRail
 ![Security](https://img.shields.io/badge/Security%20%2F%20IaC-D14836?style=flat-square&logoColor=white)
 
-[Live Edge Node](#) · [Source Code](https://github.com/abubakarxdev/guardrail)
+[Live Edge Node](https://guardrail-alpha.vercel.app/) · [Source Code](https://github.com/abubakarxdev/guardrail)
 
 SaaS platform that parses, analyzes, and scores Terraform and Kubernetes configs against security policies before they reach production.
 
-`Next.js` `FastAPI` `PostgreSQL` `Celery + Redis` `python-hcl2` `pyyaml`
+`Next.js` `FastAPI` `PostgreSQL` `Celery + Redis` `python-hcl2` `pyyaml` `Resend Python SDK`
 
 </td>
 <td width="50%" valign="top">
